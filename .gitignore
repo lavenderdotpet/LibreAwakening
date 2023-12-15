@@ -1,0 +1,8 @@
+# ignored folders
+raw-ladxhd/
+
+# ignored files
+*.kate-swp
+.directory
+.nomedia
+# included files
